@@ -1,303 +1,155 @@
 # Sebastián Echávez Cadena
 
-### AI & Machine Learning Junior | Systems Engineer
+### Ingeniero de Sistemas | Data Science Junior | Análisis de Datos y Machine Learning
 
-Systems Engineer and Master's student in **Artificial Intelligence and Computing**, with practical experience developing Machine Learning and Artificial Intelligence projects using Python.
+Ingeniero de Sistemas con formación de posgrado en curso en Inteligencia Artificial y Computación, interesado en desarrollar soluciones basadas en datos mediante Python, análisis exploratorio, estadística aplicada y aprendizaje automático.
 
-My current professional focus is **Machine Learning, Deep Learning and applied Artificial Intelligence**, combining my background in software engineering with hands-on experience in model development, data processing, algorithm design and technical problem solving.
+Mi perfil combina fundamentos de programación, experiencia académica en ingeniería y desarrollo de proyectos prácticos de análisis de datos, clasificación, redes neuronales y algoritmos de optimización.
 
-I also have university teaching experience in programming and computer science, which has strengthened my ability to communicate technical concepts, review code, analyze solutions and work with software development projects.
-
----
-
-## About Me
-
-I am a **Systems Engineer** currently pursuing a **Master's degree in Artificial Intelligence and Computing**.
-
-My experience and academic work have allowed me to develop projects involving:
-
-- Machine Learning classification
-- Neural networks and Deep Learning
-- Data preprocessing and analysis
-- Model evaluation and comparison
-- Cross-validation
-- Search algorithms
-- Genetic algorithms and optimization
-- Python-based computational solutions
-- Software development and programming fundamentals
-
-I am particularly interested in continuing to grow professionally in **Artificial Intelligence and Machine Learning**, contributing to projects where models, algorithms and software engineering are combined to solve practical problems.
+Actualmente, mi objetivo profesional es incorporarme a un equipo de **Data Science o Analítica de Datos**, donde pueda aportar mis conocimientos técnicos, fortalecer mis habilidades analíticas y contribuir a la transformación de datos en información útil para la toma de decisiones.
 
 ---
 
-## Machine Learning & AI Projects
+## Sobre mí
 
-### MLP Classification with Cross-Validation
+Soy Ingeniero de Sistemas y estudiante de la Maestría en Inteligencia Artificial y Computación. Me interesa especialmente el ciclo de trabajo de la ciencia de datos: comprender un problema, explorar los datos, prepararlos, identificar patrones, construir modelos y comunicar los resultados.
 
-**Technologies:** Python · Scikit-learn · MLPClassifier
+A través de proyectos académicos y ejercicios prácticos he trabajado en áreas como:
 
-Development of a multiclass classification model using a **Multilayer Perceptron (MLP)** with the Wine dataset.
+- Análisis exploratorio de datos (EDA).
+- Manipulación y preparación de datos con Python.
+- Clasificación mediante algoritmos de Machine Learning.
+- Fundamentos de redes neuronales y Deep Learning.
+- Evaluación y comparación de modelos predictivos.
+- Procesamiento de imágenes.
+- Algoritmos de búsqueda e inteligencia artificial.
+- Algoritmos genéticos y optimización computacional.
 
-The project includes:
+También cuento con experiencia docente universitaria en programación y áreas de ingeniería, que ha fortalecido mis capacidades para resolver problemas, revisar código, explicar conceptos técnicos y documentar soluciones.
 
-- Training and evaluation of an MLP classifier.
-- Classification performance analysis.
-- Confusion matrix and classification report.
-- Comparison of multiple classification algorithms.
-- 5-fold cross-validation.
-- Analysis of mean performance and standard deviation.
-- Evaluation of the impact of neural network architecture.
-- Analysis of activation functions and hidden layers.
+## Competencias técnicas
 
-This project demonstrates practical knowledge of **supervised learning, model evaluation and neural network fundamentals**.
+### Ciencia de datos y análisis
 
----
+- Python para análisis y procesamiento de datos.
+- Pandas y NumPy.
+- Jupyter Notebook.
+- Análisis exploratorio de datos.
+- Inspección y preparación de conjuntos de datos.
+- Identificación de valores faltantes y revisión de calidad de datos.
+- Exploración de variables y patrones.
+- SQL y fundamentos de bases de datos relacionales.
 
-### Skin Cancer Classification with Convolutional Neural Networks
+### Machine Learning e Inteligencia Artificial
 
-**Technologies:** Python · TensorFlow · Keras · CNN
+- Scikit-learn.
+- Clasificación supervisada.
+- Perceptrón multicapa (MLP).
+- Redes neuronales convolucionales (CNN).
+- Fundamentos de TensorFlow y Keras.
+- Entrenamiento y evaluación de modelos.
+- Validación cruzada.
+- Matriz de confusión.
+- Métricas de clasificación: accuracy, precision, recall y F1-score.
+- Algoritmos de búsqueda.
+- Algoritmos genéticos y optimización.
 
-Development of an image classification model based on a **Convolutional Neural Network (CNN)**.
+### Programación y desarrollo de software
 
-The architecture incorporates components such as:
+- Python.
+- Java.
+- JavaScript.
+- Programación orientada a objetos.
+- Desarrollo backend con Java y Spring Boot.
+- APIs REST.
+- Git y GitHub.
+- Maven.
 
-- Conv2D
-- MaxPooling2D
-- Flatten
-- Dense
-- Dropout
+### Bases de datos y herramientas
 
-The project focuses on applying Deep Learning techniques to an image classification problem and evaluating the behavior of the trained model.
+- PostgreSQL.
+- MySQL.
+- Firebase Firestore.
+- Fundamentos de computación en la nube.
+- Docker.
 
-This work demonstrates practical experience with **neural network architectures, image classification and TensorFlow/Keras**.
+## Proyectos destacados
 
----
+### 1. Análisis exploratorio de datos
 
-### Student Dropout Prediction
+Exploración de conjuntos de datos mediante Python para comprender su estructura, examinar variables, revisar la calidad de la información e identificar patrones que permitan orientar análisis posteriores.
 
-**Technologies:** Python · Machine Learning · Jupyter Notebook · Pandas · NumPy
+**Competencias:** Python, Pandas, NumPy, Jupyter Notebook y análisis exploratorio de datos.
 
-Academic Machine Learning project focused on the analysis and prediction of **student dropout** using student-related data.
+### 2. Análisis de datos musicales de Spotify
 
-The project involves:
+Proyecto de exploración de datos relacionados con canciones de Spotify, orientado a comprender las variables disponibles y examinar características de la información musical.
 
-- Data preparation.
-- Data exploration.
-- Dataset analysis.
-- Machine Learning model construction.
-- Model evaluation.
-- Interpretation of prediction results.
+**Competencias:** análisis de datos, exploración de variables y preparación de información para análisis posteriores.
 
-The project applies Machine Learning techniques to an educational problem, connecting data analysis with predictive modeling.
+### 3. Predicción de deserción estudiantil
 
----
+Proyecto académico de Machine Learning enfocado en estudiar la deserción estudiantil mediante datos y técnicas de modelado predictivo.
 
-### Artificial Intelligence Search Algorithms
+**Competencias:** preparación de datos, análisis exploratorio, aprendizaje automático y evaluación de modelos.
 
-**Technologies:** Python · Artificial Intelligence · Jupyter Notebook
+### 4. Clasificación con redes neuronales MLP
 
-Implementation and analysis of search algorithms for exploring **solution spaces**.
+Implementación de un modelo de clasificación multiclase con el conjunto de datos Wine, utilizando Scikit-learn y el clasificador `MLPClassifier`.
 
-The project addresses:
+El trabajo documentado incluye evaluación del modelo, matriz de confusión, reporte de clasificación, comparación de algoritmos y validación cruzada de cinco pliegues.
 
-- Problem representation.
-- State and solution-space concepts.
-- Search strategies.
-- Exploration of possible solutions.
-- Analysis of obtained solutions.
+**Competencias:** clasificación supervisada, redes neuronales, Scikit-learn y evaluación de modelos.
 
-This work strengthens my understanding of fundamental **Artificial Intelligence problem-solving techniques**.
+### 5. Clasificación de imágenes mediante CNN
 
----
+Proyecto académico de Deep Learning enfocado en la clasificación de imágenes de lesiones cutáneas mediante redes neuronales convolucionales.
 
-### Genetic Algorithm — Travelling Salesman Problem
+**Competencias:** TensorFlow, Keras, CNN y clasificación de imágenes.
 
-**Technologies:** Python · Genetic Algorithms · Optimization
+### 6. Algoritmos de búsqueda en Inteligencia Artificial
 
-Implementation of a **Genetic Algorithm** applied to the Travelling Salesman Problem (TSP).
+Práctica de implementación y análisis de estrategias de búsqueda para explorar espacios de estados y encontrar soluciones a problemas computacionales.
 
-The project includes the representation and evolution of candidate solutions through:
+**Competencias:** Python, algoritmos, resolución de problemas e Inteligencia Artificial.
 
-- Population initialization.
-- Individual representation.
-- Fitness evaluation.
-- Selection.
-- Evolution of the population.
-- Search for improved solutions.
+### 7. Algoritmo genético para el problema del viajante
 
-The objective is to apply an evolutionary optimization strategy to approximate a solution to a combinatorial optimization problem.
+Implementación académica de un algoritmo genético aplicado al problema del viajante (Travelling Salesman Problem, TSP), utilizando conceptos de población, evaluación de soluciones y evolución de individuos.
 
-This project demonstrates practical knowledge of **optimization, evolutionary algorithms and computational problem solving**.
+**Competencias:** Python, algoritmos evolutivos, optimización combinatoria y diseño de algoritmos.
 
----
+Los proyectos se desarrollan con fines de aprendizaje y práctica técnica. Los resultados, las métricas y las conclusiones específicas deben consultarse en cada repositorio.
 
-## Technical Skills
+## Formación académica
 
-### Programming
+**Maestría en Inteligencia Artificial y Computación**  
+Politécnico Grancolombiano — En curso.
 
-- Python
-- Java
-- JavaScript
-- PHP
+**Especialización en Pedagogía Universitaria**  
+Universidad de Pamplona — Finalizada.
 
-### Machine Learning & Artificial Intelligence
+**Ingeniería de Sistemas**  
+Universidad de Pamplona — Finalizada.
 
-- Scikit-learn
-- TensorFlow
-- Keras
-- Classification
-- Neural Networks
-- MLP
-- CNN
-- Cross-validation
-- Model evaluation
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- Confusion Matrix
-- Search Algorithms
-- Genetic Algorithms
-- Optimization
+## Experiencia complementaria
 
-### Data Processing
+### Docencia universitaria en ingeniería y programación
 
-- Pandas
-- NumPy
-- Jupyter Notebook
-- Dataset preparation
-- Data analysis
+Experiencia académica relacionada con la enseñanza de programación orientada a objetos con Java, algoritmos numéricos, lógica computacional y fundamentos de desarrollo de software.
 
-### Software Development
+Esta experiencia complementa mi perfil técnico mediante habilidades de comunicación, análisis de problemas, revisión de código y acompañamiento de proyectos.
 
-- Object-Oriented Programming
-- REST APIs
-- Spring Boot
-- Git
-- GitHub
-- Maven
+## Objetivo profesional
 
-### Databases
+Busco oportunidades como **Data Science Junior, Analista de Datos Junior o Machine Learning Junior**, en las que pueda aplicar mis conocimientos de programación, análisis de datos y aprendizaje automático.
 
-- PostgreSQL
-- MySQL
-- Firebase Firestore
+Me interesa continuar desarrollando experiencia práctica en preparación de datos, análisis exploratorio, construcción de modelos, evaluación de resultados y comunicación de hallazgos, trabajando con buenas prácticas de programación y documentación.
 
-### Cloud & Tools
+## Contacto
 
-- Cloud computing fundamentals
-- Cloud databases
-- Docker
+- **GitHub:** [github.com/Sechavez16](https://github.com/Sechavez16)
+- **LinkedIn:** [Consultar mi perfil profesional](https://www.linkedin.com/)
+- **Correo:** sebastianechavez5@gmail.com
 
-### Methodologies
 
-- Agile methodologies
-- Scrum
-- Technical documentation
-- Technical communication
-- Code review
-
----
-
-## Education
-
-### Master's Degree in Artificial Intelligence and Computing
-**Politécnico Grancolombiano**
-
-*Currently in progress*
-
-Focus areas include:
-
-- Machine Learning
-- Artificial Intelligence
-- Data architecture
-- Cloud integration
-
-### Specialization in University Pedagogy
-**Universidad de Pamplona**
-
-*Completed*
-
-### Systems Engineering
-**Universidad de Pamplona**
-
-*Completed*
-
----
-
-## Professional Experience
-
-### University Lecturer — Engineering & Programming
-**Universidad de Pamplona**
-
-My teaching experience includes programming and computational subjects for engineering students.
-
-My responsibilities and experience include:
-
-- Teaching Object-Oriented Programming with Java.
-- Teaching numerical algorithms and computational logic.
-- Reviewing and providing feedback on student software projects.
-- Mentoring programming projects.
-- Explaining computational methods such as Newton-Raphson.
-- Working with geometric modeling concepts.
-- Teaching knowledge representation using logic circuits.
-- Providing technical and methodological guidance for software projects.
-- Communicating technical concepts to students with different levels of programming experience.
-
-This experience has strengthened my abilities in **technical communication, code review, problem solving and software development fundamentals**.
-
----
-
-## Current Focus
-
-I am currently focused on strengthening my professional profile in:
-
-**Machine Learning**
-
-**Deep Learning**
-
-**Artificial Intelligence**
-
-**Python for AI**
-
-**Model Evaluation**
-
-**Data Processing**
-
-**AI Algorithms**
-
-**Applied AI**
-
-My goal is to continue developing practical projects that combine **Artificial Intelligence, Machine Learning and Software Engineering**.
-
----
-
-## What I Bring
-
-As a Systems Engineer transitioning into a professional AI/ML role, I bring a combination of:
-
-- Strong programming fundamentals.
-- Software engineering background.
-- Practical Machine Learning experience.
-- Foundations in Deep Learning.
-- Experience working with Python and ML libraries.
-- Understanding of model evaluation.
-- Experience explaining and documenting technical solutions.
-- University-level teaching and mentoring experience.
-- Continuous learning through a Master's degree in Artificial Intelligence and Computing.
-
----
-
-## Contact
-
-**Email:** sebastianechavez5@gmail.com
-
-**GitHub:** [github.com/Sechavez16](https://github.com/Sechavez16)
-
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
-
----
-
-### Open to opportunities
-
-I am interested in **Junior Artificial Intelligence, Machine Learning and AI Engineering opportunities**, particularly positions where I can continue developing my technical skills while contributing to real-world projects.
